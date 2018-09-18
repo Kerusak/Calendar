@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calendar.Views.TaskPage" Title="Добавление задания">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout x:Name="friendStack">
+                <Label Text="Название" />
+                <Entry Text="{Binding Title}" FontSize="Medium" />
+                <Label Text="Описание" />
+                <Entry Text="{Binding Desc}" FontSize="Medium" />
+                <Label Text="Время" />
+                <Entry Text="{Binding TimeToGoal}" FontSize="Medium" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                <Button Text="Добавить" Command="{Binding ListViewModel.SaveTaskCommand}" CommandParameter="{Binding}" />
+                <Button Text="Удалить" Command="{Binding ListViewModel.DeleteTaskCommand}" CommandParameter="{Binding}" />
+                <Button Text="Назад" Command="{Binding Path=ListViewModel.BackCommand}" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

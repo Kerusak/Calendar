@@ -1,0 +1,13 @@
+C:\Users\kerus\source\repos\Calendar\Calendar\Calendar\bin\Release\netstandard2.0\Calendar.deps.json
+C:\Users\kerus\source\repos\Calendar\Calendar\Calendar\bin\Release\netstandard2.0\Calendar.dll
+C:\Users\kerus\source\repos\Calendar\Calendar\Calendar\bin\Release\netstandard2.0\Calendar.pdb
+C:\Users\kerus\source\repos\Calendar\Calendar\Calendar\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\kerus\source\repos\Calendar\Calendar\Calendar\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kerus\source\repos\Calendar\Calendar\Calendar\obj\Release\netstandard2.0\Views\TaskPage.xaml.g.cs
+C:\Users\kerus\source\repos\Calendar\Calendar\Calendar\obj\Release\netstandard2.0\Views\TasksListPage.xaml.g.cs
+C:\Users\kerus\source\repos\Calendar\Calendar\Calendar\obj\Release\netstandard2.0\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\kerus\source\repos\Calendar\Calendar\Calendar\obj\Release\netstandard2.0\Calendar.AssemblyInfoInputs.cache
+C:\Users\kerus\source\repos\Calendar\Calendar\Calendar\obj\Release\netstandard2.0\Calendar.AssemblyInfo.cs
+C:\Users\kerus\source\repos\Calendar\Calendar\Calendar\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\kerus\source\repos\Calendar\Calendar\Calendar\obj\Release\netstandard2.0\Calendar.dll
+C:\Users\kerus\source\repos\Calendar\Calendar\Calendar\obj\Release\netstandard2.0\Calendar.pdb
